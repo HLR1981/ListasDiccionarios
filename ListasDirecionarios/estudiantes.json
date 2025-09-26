@@ -1,0 +1,68 @@
+[
+    {
+        "nombre": "Gabriel Lugo",
+        "edad": 48,
+        "calificaciones": [
+            {
+                "materia": "Taller de Investigacion",
+                "nota": 9.5
+            },
+            {
+                "materia": "Programacion Logica",
+                "nota": 8.0
+            },
+            {
+                "materia": "Gestion de Proyectos",
+                "nota": 9.4
+            },
+            {
+                "materia": "Conmutacion de Redes",
+                "nota": 8.0
+            }
+        ]
+    },
+    {
+        "nombre": "Hilario Jimenez",
+        "edad": 44,
+        "calificaciones": [
+            {
+                "materia": "Taller de Investigacion",
+                "nota": 9.2
+            },
+            {
+                "materia": "Gestion de Proyectos",
+                "nota": 8.8
+            },
+            {
+                "materia": "Programacion Logica",
+                "nota": 9.5
+            },
+            {
+                "materia": "Conmutacion de Redes",
+                "nota": 8.1
+            }
+        ]
+    },
+    {
+        "nombre": "Arturo Flores",
+        "edad": 33,
+        "calificaciones": [
+            {
+                "materia": "Gestion de Proyectos",
+                "nota": 8.9
+            },
+            {
+                "materia": "Taller de Investigacion",
+                "nota": 9.5
+            },
+            {
+                "materia": "Programacion Logica",
+                "nota": 9.2
+            },
+            {
+                "materia": "Conmutacion de Redes",
+                "nota": 8.9
+            }
+        ]
+    }
+]
